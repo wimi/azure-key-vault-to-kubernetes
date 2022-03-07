@@ -3,7 +3,7 @@ module github.com/SparebankenVest/azure-key-vault-to-kubernetes
 go 1.16
 
 require (
-	emperror.dev/errors v0.8.0
+	emperror.dev/errors v0.8.1
 	github.com/Azure/aad-pod-identity v1.8.5
 	github.com/Azure/azure-sdk-for-go v57.4.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.21
